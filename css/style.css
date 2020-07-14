@@ -10,10 +10,10 @@ body {
 	padding: 32px
 }
 
-header {
-	background-color: #17A589;
-	height: 150px;
-	padding: 4px;
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
 }
 
 
@@ -61,5 +61,5 @@ header h2 {
 
 .main_menu a:hover {
 	color: #7E5109;
-	
+
 }
