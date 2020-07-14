@@ -12,8 +12,24 @@
   text-align: center;
   padding: 20px;
   height: 80px
-  width: 100;
+  width: 100%;
   display: block;
-  
+  margin: 0 auto;
+
+}
+
+.inner_header{
+	width: 1000px;
+	height: 100%;
+	display: block;
+	margin: 0 auto;
+	background-color: #FA8072
+
+}
+
+.logo_container{
+	height: 100%;
+	display: table;
+	float: left;
 
 }
