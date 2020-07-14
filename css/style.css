@@ -1,0 +1,19 @@
+*{
+
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+
+.header{
+
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+  height: 80px
+  width: 100;
+  display: block;
+  
+
+}
